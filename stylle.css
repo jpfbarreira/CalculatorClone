@@ -47,6 +47,9 @@ button{
     font-size: larger;
     font-weight: bolder;
 }
+button:hover{
+    background-color: #a4c9c1;
+}
 
 #ac{
     width: 50%;

@@ -37,11 +37,11 @@ body{
 .numbers-container{
     display: flex;
     flex-wrap: wrap;
+    height: 80%;
 }
 
 button{
     width: 25%;
-    height: 68px;
     background-color: #bff5eb;
     border: 1px solid white;
     font-size: larger;
